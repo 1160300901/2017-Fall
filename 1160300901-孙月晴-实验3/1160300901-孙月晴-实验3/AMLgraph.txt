@@ -1,0 +1,23 @@
+15 21
+a b c d e f g h i j k l m n o       
+an          
+ag          
+af          
+ac          
+ab          
+cm          
+cj          
+cf          
+cd          
+do          
+dj          
+en          
+ei          
+fm          
+fg          
+hk          
+hi          
+ij          
+jk          
+km          
+lo
