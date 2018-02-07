@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510135557 source:d:\work\c数据结构与算法\1160300901-孙月晴-实验1\main.c
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+
